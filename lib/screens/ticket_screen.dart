@@ -143,7 +143,7 @@ class ticketScreen extends StatelessWidget {
                   borderRadius: BorderRadius.circular(AppLayout.getHeight(15)),
                   child: BarcodeWidget(
                     barcode: Barcode.code128(),
-                    data: 'https://github.com/martinovovo',
+                    data: 'https://github.com/abhilash-appu',
                     drawText: false,
                     color: styles.textColor,
                     width: double.infinity,
